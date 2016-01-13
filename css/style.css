@@ -290,6 +290,7 @@ a {
     position: relative;
     border: 30px solid white;
     border-radius: 6px;
+    box-shadow: 0 1px rgba(0,0,0,0.5);
 }
 
 .ba-ipad {
